@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TP_Liste</string>
+    <string-array name="montableau">
+        <item>Algorithmes</item>
+        <item>Sport</item>
+        <item>Farniente</item>
+        <item>Spoil</item>
+        <item>Vacance</item>
+        <item>Pascal</item>
+    </string-array>
+</resources>
